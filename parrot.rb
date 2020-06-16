@@ -3,7 +3,7 @@
 
 
  def parrot_phrase(sound, phrase)
-   puts "#{name}"
+   puts "#{sound}, #{phrase}"
  end
 
 
