@@ -3,10 +3,10 @@
 
 
  def parrot(name)
-   puts "#{name}!"
+   puts "#{name}"
  end
 
-
+parrot("Squawk!")
 
 
 
