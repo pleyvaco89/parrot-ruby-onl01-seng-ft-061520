@@ -5,6 +5,8 @@
  def parrot_phrase(sound, phrase)
    puts "#{sound}, #{phrase}"
  end
+ 
+ parrot_phrase("Squawk!")
 
 
 
