@@ -9,12 +9,11 @@
   parrot
  
  
- 
- def parrot_phrase(sound, phrase)
-   puts "#{sound}, #{phrase}"
+ def parrot_phrase(phrase)
+   puts "#{phrase}"
  end
  
- parrot_phrase("Squawk!", "Pretty bird")
+ parrot_phrase("Pretty bird")
  
 
 
