@@ -2,7 +2,7 @@
 # returns the phrase
 
 
- def parrot_phrase(name)
+ def parrot_phrase(sound, phrase)
    puts "#{name}"
  end
 
