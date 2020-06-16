@@ -6,7 +6,7 @@
    puts "#{sound}, #{phrase}"
  end
  
- parrot_phrase("Squawk!")
+ parrot_phrase("Squawk!", "Pretty bird")
 
 
 
