@@ -6,7 +6,7 @@
    puts "#{name}!"
  end
 
-parrot_phrase
+parrot
 
 
 
