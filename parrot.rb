@@ -3,6 +3,7 @@
 
 
 def parrot(name)
+  puts "#{name}"
 end
 
 
