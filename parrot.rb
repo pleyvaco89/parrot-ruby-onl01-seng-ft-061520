@@ -2,11 +2,11 @@
 # returns the phrase
 
 
- def parrot_phrase
+ def parrot
    puts "Squawk!"
  end
  
- parrot_phrase
+ parrot
 
 
 
